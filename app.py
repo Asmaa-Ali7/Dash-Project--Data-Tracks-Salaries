@@ -15,7 +15,7 @@ model = load('model_.pkl')
 
 
 # -------------- Load The Data ------------------ #
-df = pd.read_csv("data\dataa.csv")
+df = pd.read_csv("dataa.csv")
 
 # *************************************************************************
 # ** Notice: The EDA of This DataSet has Already Done In Kaggle Notebook **
